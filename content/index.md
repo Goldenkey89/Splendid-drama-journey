@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Carnet de bord Marin GUERIN TB 204
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Très bonne lecture à vous. 
+
+[[Carnet]]

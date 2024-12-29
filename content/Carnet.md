@@ -459,10 +459,10 @@ Débrief de la prestation orale de la 1M30 d'éloquence
 
 Bien sûr, je ne peux pas me voir parler en replay ou d'un autre point de vue, mais voici les points que je pense à améliorer ou des points positifs :
 
-- Body language un peu répétitif, trop du même geste ==> Un geste pour isolement aurait été pertinent :LiBadgeAlert:
-- Ton peut-être trop rapide et manque de blancs intentionnels pour marquer une pause dans le discours = Apnée :LiBadgeAlert:
-- Regard du public pour un discours plus dynamique :LiBadgeCheck:
-- Le discours n'est pas parti dans tous les sens, déroulé (canevas) respecté. :LiBadgeCheck:
+- Body language un peu répétitif, trop du même geste ==> Un geste pour isolement aurait été pertinent 
+- Ton peut-être trop rapide et manque de blancs intentionnels pour marquer une pause dans le discours = Apnée
+- Regard du public pour un discours plus dynamique
+- Le discours n'est pas parti dans tous les sens, déroulé (canevas) respecté.
 
 #### Faustine
 
@@ -474,7 +474,7 @@ Peut-être que son texte l'a trop impactée, d'où la raison pour laquelle je pr
 
 L'importance de y aller sans support le plus tôt possible.
 
-### Exercice de chroniqueur :LiRadioTower:
+### Exercice de chroniqueur
 
 ==> Objectif : préparer le **spectacle** mais également la rencontre **avec le comédien** en se plongeant dans leur univers (Biographies, note d'intention scénographe, metteur en scène, ingénieur son)
 
@@ -525,7 +525,7 @@ Notre prestation à l'oral était un peu chaotique, pas tout le monde était sur
 **Le fil = métaphore** : Le funambule représente peut-être notre propre équilibre précaire dans la vie, entre le succès et l’échec, le doute et la confiance.  
 **Un dialogue entre corps et texte** : L’acrobatie et la poésie de Genet se répondent, créant une tension entre le physique et l’émotionnel. Toujours sur le fil.
 
-### Éléments du décor :LiLightbulb: 🪴
+### Éléments du décor 🪴
 
 Le décor montre un cirque abandonné, avec des lumières cassées et une ambiance mélancolique. La lumière, même imparfaite, joue un rôle important : elle éclaire des moments simples et apporte un peu de chaleur dans ce lieu sombre. Le narrateur, seul, se place sous la lumière.
 
@@ -609,7 +609,7 @@ Pour la fin de la pièce, Iphigénie est sacrifiée sur l'autel. Pour clôturer 
 
 ### Scène n°1 : Éléments d'intro (Brainstorming)
 
-L'idée d'un présentateur paillettes 🕺 :LiKeyboardMusic: disco funk, avec une perruque et des lunettes rétro plus lunettes de DJ des années 80, serait légendaire. Il pourrait servir de narrateur, animateur de la pièce tout au long des scènes, comme un nouveau personnage qui brise le 4e mur. Par exemple, il pourrait être assis avec le public puis monter sur scène entre deux changements, etc.
+L'idée d'un présentateur paillettes 🕺 disco funk, avec une perruque et des lunettes rétro plus lunettes de DJ des années 80, serait légendaire. Il pourrait servir de narrateur, animateur de la pièce tout au long des scènes, comme un nouveau personnage qui brise le 4e mur. Par exemple, il pourrait être assis avec le public puis monter sur scène entre deux changements, etc.
 
 ![[DISCO MAN Théâtre.jpg]]
 
@@ -700,7 +700,7 @@ Leur mise en scène est composée, en plus de la nôtre, d'une table avec Iphig�
 
 => Artémise (méprisante) + Kronos (sérieux mais à l'écart après son intervention). Dionysos ému et sous l'émotion lorsqu'il évoque et décrit Iphigénie.
 
-=> De plus, les dieux sont également dans le public, comme nous, puis arrivent sur scène et s'installent comme des dieux fainéants avec un égo surdimensionné (La patate, comme le dit mon voisin à l'internat :LiSmilePlus:).
+=> De plus, les dieux sont également dans le public, comme nous, puis arrivent sur scène et s'installent comme des dieux fainéants avec un égo surdimensionné (La patate, comme le dit mon voisin à l'internat).
 
 ## Séance N°13 Mardi 03/12/2024
 
