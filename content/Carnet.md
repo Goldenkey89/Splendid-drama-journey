@@ -2,7 +2,9 @@
 
 ## Planning Théâtre roadmap n°2
 
-![[Organisation_fin_annee_Theatre__2025(2) 1.pdf]]
+![[Organisation_fin_annee_Theatre__2025(2) 1_page-0001.jpg]]
+![[Organisation_fin_annee_Theatre__2025(2) 1_page-0002.jpg]]
+
 
 ### Les évaluations en théâtre :
 

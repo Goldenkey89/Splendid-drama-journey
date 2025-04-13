@@ -6,4 +6,4 @@ Très bonne lecture à vous.
 
 [[Carnet]]
 
-Raccourci pour le 2nd semestre : 
+Raccourci pour le 2nd semestre : https://goldenkey89.github.io/Splendid-drama-journey/Carnet#carnet-de-th%C3%A9%C3%A2tre-semestre-2
