@@ -1,5 +1,9 @@
 # Documents numérisés Théâtre
 
+## Planning Théâtre roadmap n°2
+
+![[Organisation_fin_annee_Theatre__2025(2) 1.pdf]]
+
 ### Les évaluations en théâtre :
 
 ![[EVAL T n°1.png]]
@@ -459,10 +463,10 @@ Débrief de la prestation orale de la 1M30 d'éloquence
 
 Bien sûr, je ne peux pas me voir parler en replay ou d'un autre point de vue, mais voici les points que je pense à améliorer ou des points positifs :
 
-- Body language un peu répétitif, trop du même geste ==> Un geste pour isolement aurait été pertinent 
-- Ton peut-être trop rapide et manque de blancs intentionnels pour marquer une pause dans le discours = Apnée
-- Regard du public pour un discours plus dynamique
-- Le discours n'est pas parti dans tous les sens, déroulé (canevas) respecté.
+- Body language un peu répétitif, trop du même geste ==> Un geste pour isolement aurait été pertinent :LiBadgeAlert:
+- Ton peut-être trop rapide et manque de blancs intentionnels pour marquer une pause dans le discours = Apnée :LiBadgeAlert:
+- Regard du public pour un discours plus dynamique :LiBadgeCheck:
+- Le discours n'est pas parti dans tous les sens, déroulé (canevas) respecté. :LiBadgeCheck:
 
 #### Faustine
 
@@ -474,7 +478,7 @@ Peut-être que son texte l'a trop impactée, d'où la raison pour laquelle je pr
 
 L'importance de y aller sans support le plus tôt possible.
 
-### Exercice de chroniqueur
+### Exercice de chroniqueur :LiRadioTower:
 
 ==> Objectif : préparer le **spectacle** mais également la rencontre **avec le comédien** en se plongeant dans leur univers (Biographies, note d'intention scénographe, metteur en scène, ingénieur son)
 
@@ -525,7 +529,7 @@ Notre prestation à l'oral était un peu chaotique, pas tout le monde était sur
 **Le fil = métaphore** : Le funambule représente peut-être notre propre équilibre précaire dans la vie, entre le succès et l’échec, le doute et la confiance.  
 **Un dialogue entre corps et texte** : L’acrobatie et la poésie de Genet se répondent, créant une tension entre le physique et l’émotionnel. Toujours sur le fil.
 
-### Éléments du décor 🪴
+### Éléments du décor :LiLightbulb: 🪴
 
 Le décor montre un cirque abandonné, avec des lumières cassées et une ambiance mélancolique. La lumière, même imparfaite, joue un rôle important : elle éclaire des moments simples et apporte un peu de chaleur dans ce lieu sombre. Le narrateur, seul, se place sous la lumière.
 
@@ -609,7 +613,7 @@ Pour la fin de la pièce, Iphigénie est sacrifiée sur l'autel. Pour clôturer 
 
 ### Scène n°1 : Éléments d'intro (Brainstorming)
 
-L'idée d'un présentateur paillettes 🕺 disco funk, avec une perruque et des lunettes rétro plus lunettes de DJ des années 80, serait légendaire. Il pourrait servir de narrateur, animateur de la pièce tout au long des scènes, comme un nouveau personnage qui brise le 4e mur. Par exemple, il pourrait être assis avec le public puis monter sur scène entre deux changements, etc.
+L'idée d'un présentateur paillettes 🕺 :LiKeyboardMusic: disco funk, avec une perruque et des lunettes rétro plus lunettes de DJ des années 80, serait légendaire. Il pourrait servir de narrateur, animateur de la pièce tout au long des scènes, comme un nouveau personnage qui brise le 4e mur. Par exemple, il pourrait être assis avec le public puis monter sur scène entre deux changements, etc.
 
 ![[DISCO MAN Théâtre.jpg]]
 
@@ -694,13 +698,14 @@ Ainsi, nous avons pris une approche dirigée vers une *rap battle* où les dieux
 
 #### Proposition du groupe, Mayeul, Lise
 
-Leur approche sur cette scène est plus traditionnelle. Ainsi, je n'ai pas trop envie de réaliser cette mise en scène. Bien que réaliser une approche traditionnelle pourrait marcher, je n'ai pas envie de réaliser une pièce doublon par rapport aux grosses productions.
+Leur approche sur cette scène est plus traditionnelle. Ainsi, je n'ai pas trop envie de réaliser cette mise en scène. Bien que réaliser une approche 
+traditionnelle pourrait marcher, je n'ai pas envie de réaliser une pièce doublon par rapport aux grosses productions.
 
 Leur mise en scène est composée, en plus de la nôtre, d'une table avec Iphigénie cachée derrière un rideau blanc lorsqu'elle se déshabille. D'ailleurs, dans notre mise en scène, nous avons ignoré Iphigénie, puisque le rap battle nous a surchargés et nous ne savions où l'intégrer. Sur le moment, il nous manquait une personne pour la jouer.
 
 => Artémise (méprisante) + Kronos (sérieux mais à l'écart après son intervention). Dionysos ému et sous l'émotion lorsqu'il évoque et décrit Iphigénie.
 
-=> De plus, les dieux sont également dans le public, comme nous, puis arrivent sur scène et s'installent comme des dieux fainéants avec un égo surdimensionné (La patate, comme le dit mon voisin à l'internat).
+=> De plus, les dieux sont également dans le public, comme nous, puis arrivent sur scène et s'installent comme des dieux fainéants avec un égo surdimensionné (La patate, comme le dit mon voisin à l'internat :LiSmilePlus:).
 
 ## Séance N°13 Mardi 03/12/2024
 
@@ -745,3 +750,508 @@ En revanche, il faut faire **attention**. Pour les scènes 4 et 5, il faut la m�
 Premièrement, pour cette scène, nous devons prendre en compte que le public doit comprendre qu'il s'agit d'un rêve. Donc, on pourrait faire marcher la scène avec 2 Achille(s), avec un des Achille(s) qui se met à dormir et le deuxième qui se réveille derrière lui après l'arrivée du spectre de Patrocle et d'un changement de lumière. Je vais donc prendre ces recommandations pour refaire et proposer une mise en scène.
 
 ![[Scène N°6 Quentin + prof + éliotte.jpg.jpg]]
+
+# Carnet de théâtre semestre 2
+## Séance N°14 Lundi 20/01/2025
+
+Le planning de théâtre peut se retrouver sur la première page.
+### Distribution générale de tous les rôles.
+
+![[répartition des rôles.png]]
+
+![[repartition des rôles parties 2.png]]
+
+#### Important
+
+Je suis donc positionné sur la scène *8* *Scène roi avec Iphigénie* en tant que Agamemnon et je joue avec Céleste (Iphigénie). Le texte doit être sur le **28/01 soit fin janvier**.
+
+### Texte de la scène en incluant les coupes.
+
+En tout j'ai **18 répliques** pendant cette scène, elles sont toutes en échange continu (Moi, Céleste, Moi...).
+
+## Scène 8, Spectacle de fin d'année
+
+*Iphigénie* j'aime cette heure. Regarde. Ce jour sera si beau. Je le sens. Quel est ce grondement qui résonne là-bas près du calme des étangs?
+
+**Agamemnon** Ce sont les prêtres. Ils préparent l'autel des sacrifices.
+
+*Iphigénie* Pourrai-je être présente à la cérémonie?
+
+**Agamemnon** Les dieux exigent ta présence.
+
+*Iphigénie* Alors que ce jour soit béni. Je ne savais pas que les dieux se préoccupaient autant de moi. Je voulais voir le sacrifice et ils m'ont exaucée.
+
+**Agamemnon** Tais-toi. Quand les dieux veulent nous punir, ils exaucent nos prières.
+
+*Iphigénie* Quel animal sera sacrifié aujourd'hui?
+
+**Agamemnon** Tu le sauras assez tôt.
+
+*Iphigénie* Au moins ce n'est pas un animal que j'aime.
+
+**Agamemnon** Y a-t-il un animal que tu n'aimes pas?
+
+*Iphigénie* Aujourd'hui je sens bien que quelque chose commence. Allons, père. Je sais tout.
+
+**Agamemnon** Qu'est-ce que tu sais?
+
+*Iphigénie* Inutile de me cacher les choses plus longtemps.
+
+**Agamemnon** Qui t'a dit? O ma petite fille ...
+
+*Iphigénie* Les servantes ne sont pas discrètes, elles parlent.
+
+**Agamemnon** Aucune servante ne sait rien.
+
+*Iphigénie* Naïveté des hommes ! Toutes savent ce qui se prépare. Même ma sœur Electre. Toutes. Elles savent toutes.
+
+**Agamemnon** Allons. De quoi parles-tu ? Que savent-elles ? Qu'ont-elles dit ?
+
+*Iphigénie* Qu'elles allaient me perdre. Que ma vie de jeune fille s'achève. Que mon père et ma mère allaient se séparer de moi.
+
+**Agamemnon** Iphigénie !
+
+*Iphigénie* Que ce jour soit béni. Les dieux seront à mes côtés, et je me marierai avec Achille. Père, ne pleure pas. Un roi ne pleure pas.
+
+**Agamemnon** Ce n'est rien.
+
+*Iphigénie* Il m'attendra le soir dans une chambre chaude et je serai brûlante et douce. Père. Qu'y a-t-il?
+
+**Agamemnon** Apprends-moi à me séparer de toi...
+
+*Iphigénie* Allons consulter Kalkhas. Voyons quel oracle commande à ce jour.
+
+**Agamemnon** Non.
+
+*Iphigénie* Pourquoi?
+
+**Agamemnon** Inutile. Je connais l'oracle de ce jour.
+
+*Iphigénie* Eh bien?
+
+**Agamemnon** Il dit
+
+*Iphigénie* Oui?
+
+**Agamemnon** Que je dois donner ma fille et qu'un roi ne possède aucun royaume s'il n'est pas capable d'obéir.
+
+*Iphigénie* Voilà. L'oracle est clair.
+
+**Agamemnon** Très clair, ma fille. Allons. Va te préparer.
+
+*Iphigénie* Tu seras fier de ta fille.
+
+**Agamemnon** Puisse ma fille être aussi fière de son père.
+
+***Iphigénie sort***
+
+**Agamemnon (seul)** O... Descendre dormir à jamais sous la terre, auprès des eaux profondes, sans lumière, froid, avalé par l'oubli. 
+
+Et toi, ma fille, une dernière fois, j'ai touché ton cou si chaud, où le sang bientôt ne sera plus... O ignoble boucherie...
+
+***Il sort***
+
+
+## Séance N°15 Mardi 21/01/2025
+
+### Échauffement avec exercice de concentration (en cercle)
+
+### Consolidation des mises en scène avec **Frederick**
+
+#### Scène n°1 (rattrapage des jeudis)
+
+La scène proposée consiste à mettre les dieux importants au début, au centre de la scène, et à placer les autres dieux de l'Olympe sur les côtés, dans les jardins et cours de la scène, tel une **émission télé**. On réserve un îlot central pour faire entrer les dieux sur scène.
+
+![[Scène 1 remaster Janvier.jpg.jpg]]
+
+La scène a donc été modifiée avec quelques remarques pour les personnages :
+
+==> **Kronos** est un présentateur (pull à paillettes), comme ce que je l'avais espéré.
+![[DISCO MAN Théâtre.jpg | 50]]
+
+Désormais, il doit jouer tel un animateur, ce qui inclut de chauffer le public, notamment entre les moments de débats, et de montrer une complicité avec celui-ci.
+
+==> **Dionysos** doit avoir une attitude à la limite du voyeurisme (déplacée), notamment lorsqu'il doit décrire le corps dénudé d'Iphigénie. Il doit entrer dans une "trance", et **Apollon** est celui qui le sort de cette transe grâce à un léger contact physique sur l'épaule.
+
+À part cela, nous devons amplifier la voix sur cette scène malgré les personnages qui peuvent poser une contrainte.
+
+### Scène 2 Ambre + Farrah
+
+La scène n'a pas trop changé, à part que le chœur est désormais composé d'une seule personne accompagnée d'Ambre.
+
+La scène est très basique. Elle consiste à ce que la **Choryphée** présente et décrive les environs, et le chœur critique les dieux. Pendant la scène, les personnages entrent en rage puis préparent l'arrivée mystérieuse de Tirésias, par "un bruit monte. Écoutez" de manière calme, puis les personnages deviennent stupéfaits face au berger.
+
+### Scène 3 Tirésias
+
+A propos des personnages :
+
+==> **Tirésias** doit amplifier le fait d'être aveugle, puisqu'il vient de se faire crever les yeux. Il ne doit donc pas réagir aux sons, car ses sens ne sont pas adaptés.
+
+De plus, il est en souffrance immense, perdu, et alterne entre un état de lenteur parce qu'il cherche à comprendre sa situation et un état d'urgence, puisqu'il doit délivrer le message des dieux.
+
+==> Le chœur voit son nombre augmenter à 4 sur scène.
+
+Voici le déroulé de la scène, car la scène est compliquée à modéliser pour les placements.
+
+![[Scène 3 Déroulé de la scène.png]]
+
+---
+
+## Séance N°16 Mardi 28/01/2025
+
+Cette séance était particulière puisque la professeur et le comédien étaient absents.
+
+Aujourd'hui, nous avons retravaillé quelques scènes, mais plus important pour moi, nous avons travaillé et essayé de mettre en place la scène n°8.
+
+### Scène 8
+
+Pour cette scène, j'avais 2 répliques qui étaient mal coupées dans mon livre. J'ai pu faire les changements.
+
+Voici comment nous pensons jouer les personnages :
+
+| Personnages                  | Contexte de la scène                                                                                                                                                                                                                                                                                                                                                                         | Éléments de jeux sur scène                                                                                                                                                                                                                                                         |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Agamemnon (le roi)** moi       | En tant que roi, je sais que ma fille va très prochainement mourir lors de son "mariage". Je suis terrifié et attristé par cette nouvelle. Je veux à tout prix ne pas le dire à ma fille, car cela risquerait de gâcher ce qu'elle pense être le plus beau jour de sa vie (son mariage avec Achille). Si je vais à l'encontre du désir des dieux, je risque le châtiment divin. | Sur scène, à l'arrivée de ma fille, je suis stressé et triste, mais aussi en colère à cause des émotions, par moments, dues à l'ignorance de ma fille. Je parais donc stressé, mais également pétrifié et comme "stone". Le roi doit être cloué sur son siège. |
+| **Iphigénie (sa fille)** Celeste | Ma fille pense qu'elle va se marier avec Achille et s'attend à vivre le jour de sa vie. Elle est toute joyeuse et est même taquine avec son père, puisqu'elle voit qu'il est stressé, a priori, pour le mariage.                                                                                                                                                                             | Iphigénie est rayonnante et remplie d'émotions positives. Il y a donc un **contraste** avec son père, qui lui est vide. Sur scène, Iphigénie est dynamique.                                                                                                                        |
+
+Voici la mise en scène que nous avons proposée :
+
+![[Scène 8 modèle 1 Fevrier.jpg.jpg]]
+## Cornucopia après spectacle
+
+### La scène Vu ?
+
+==> Mise en forme comme l'Agora et début du spectacle dans le hall d'accueil.  
+Ma représentation ne prend pas en compte le rideau qui permet de fermer la scène centrale et obstruer la vue des spectateurs pour permettre de hélitreuiller les comédiens et les éléments de la scène.
+
+![Scène Compliqué Cornucopia.jpg.jpg]
+
+### Notes sur la pièce (réflexion et constats)
+
+=> Surcharge d'oxygène = mort cérébrale ?
+
+Une dystopie déguisée en utopie.
+
+Une abondance insatiable (scène avec les légumes).
+
+=> Ils sont libres, mais la personne élevée en couveuse ne peut pas poser de questions ni douter de leur "protocole" ==> Le doute méthodique de Descartes. L'hors protocole, comme pour le passage rapide vers l'autre monde, les pétrifie.
+
+Une hallucination collective due à la sur-oxygénation, soit l'hyperoxie => L'oracle est une illusion (neurotoxine). La mort des autres, une surexposition et une perte de toute capacité de réflexion (l'avenir après la sphère).
+
+Donc, les pierres oxygénées sont une sorte de drogue miracle.
+
+Le rêve de certains personnages est hors protocole. Le rêve est qualifié d'anomalie de pensées et même de révolte = 1984 de George Orwell, le "thought crime".
+
+#### Technique
+
+La scène est exceptionnelle. La projection circulaire d'un écran est une prouesse technique.
+
+- Le système de passerelle est discret, mais ne m'a pas échappé.
+- Ils utilisent une corde et une échelle pour descendre ou remonter les objets.
+- Utilisation d'un flash (trop puissant), semble indiquer un changement de scène.
+
+Leur pierres oxygénées violettes sont modulables => forment une scène de concert pour un des personnages.
+
+Les costumes sont extrêmement variés et hors du commun. Notamment, le costume avec une enceinte qui fonctionnait dans sa robe.
+
+La protagoniste, qui avait été en couveuse (immergée dès ses premiers instants dans les pierres), voit ses habits progressivement infestés de pierres oxygénées, ce qui expliquerait sa dérive plus rapide vers l'au-delà.
+
+=> ++ Utilisation du rouleau pour habiller un personnage à l'aide du plateau en rotation.
+
+**La technique de ce spectacle est absolument époustouflante, je pense qu'elle a permis de m'accrocher dans les moments très compliqués de cette pièce pour faire une pause à mon cerveau.**
+
+---
+
+## Séance N°17 Mardi 04/03/2025
+
+Information importante : mon oral se déroule le mardi 11 mars.
+
+### Échauffements
+
+- Re-concentration dans sa bulle grâce à la méditation.
+- Exercice de chute libre en duo (confiance et concentration).
+
+**Italiennes**
+
+- Scène 5, 6
+
+### Préparation (en duo) de la scène 8
+
+#### Bilan des italiennes et répliques qui coincent
+
+| Marin                                                                                                                                                                                                                                                        | Celeste                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| - ==Qui t'as dit==  O ma petite fille...                                                                                                                                                                                                                     | *Iphigénie* Allons consulter ==Kalkhas==. Voyons quel oracle commande à ce jour.                                           |
+| Que je dois donner ma fille et ==qu'un== roi ne possède aucun royaume s'il n'est pas capable d'obéir.                                                                                                                                                        | ==Que ce jour soit béni==. Les dieux seront à mes côtés et j'épouserai Achille. Père. Ne pleure pas.  Un roi ne pleure pas. |
+| O... Descendre dormir à jamais sous la terre, auprès des eaux profondes, ==sans lumière==, froid, avalé par l'oubli. <br><br>Et toi ma fille ==une dernière fois==, j'ai touché ton cou si chaud, où le sang bientôt ne sera plus ... O ignoble boucherie... | Il m'attendra le soir dans une chambre chaude ==et je serai brûlante et douce==. Père. Qu'y a-t-il?                        |
+
+#### Brainstorming sur la mise en scène
+
+Pour rappel, la scène doit pour l'instant se jouer ainsi :
+
+![[Scène 8 modélisation.jpg.jpg]]
+
+Cette mise en scène ne nous plaît pas, notamment pour son côté statique qui rend la scène morte, ce qui est amplifié par mon personnage.
+
+Plutôt que de n'avoir qu'une chaise, on souhaite mimer un balcon grâce à une table, dans l'objectif de s'appuyer dessus plutôt que de rester cloué à un siège.
+
+Ce style serait comme une confrontation entre père et fille.
+
+![Vue balcon comme scène 8.png]
+
+Voici le "menu" que nous proposons pour mettre la pièce en scène :
+
+- Iphigénie contemple (Elle est déjà sur scène), soit assise dans une chaise, le public (le paysage).  
+- Ensuite, j'arrive dans le but de lui annoncer la nouvelle. Je suis déterminé, mais je perds le courage de lui en parler, donc je m'assois avec elle pour apprécier "ses derniers instants".  
+- Elle se lève, remplie d'enthousiasme à l'idée de se marier avec Achille, tandis que je reste pétrifié sur mon siège.  
+- Je me lève brusquement de ma chaise, quand "Allons, de quoi parles-tu..."  
+- Puis je contemple l'horizon comme si nous étions sur un balcon.  
+- J’empêche Iphigénie d'aller consulter Kalkhas.  
+- Puis je salue solennellement ma fille, sachant que c'est mon dernier adieu et que je n'ai pas eu le courage de lui annoncer la vérité.  
+- Elle sort, puis je fais mon monologue et je pars.
+
+Mise en scène :
+
+![[Iphigénie scène 8 04 mars Balcon.jpg]]
+
+### Scène 6 éléments modifiés
+
+Sur cette scène, on a répondu à des éléments problématiques :
+
+1. Quel est le rôle d'Achille qui dort ? ==> Manque de crédibilité, donc abandon de cette idée.
+2. L'entrée est trop compliquée avec le lit (réglée), mais comment transitionner vers le songe avec son atmosphère irréelle ?
+3. Le regard qui brise la barrière entre le monde réel et les morts : solution, les morts peuvent regarder, mais pas Achille. (Voix "omnisciente" du point de vue d'Achille)
+
+### Scène 5 : Pas de changement notable
+
+La mise en scène avec Electre doit représenter une conversation entre grande sœur et petite sœur.
+
+
+## Séance N°18 Mardi 11/03/2025
+
+Aujourd'hui au programme nous présentons les scènes déjà montées à Frédérique et nous poursuivons le montage de scènes notamment la scène 8 dans laquelle je joue.
+
+### Scène n°5 Conseil de Frédérique : 
+
+- Amplifier le style enfantin de Electre.
+- La remarque "importante" de Electre doit être surjouée (Le ruban vert).
+- Désormais pour dynamiser la scène, Iphigénie poursuit sa soeur pour qu'elle lui avoue ce qu'elle a entendue d'Achille, soit une chamaillerie entre sœurs.
+- Sortie de la scène en cheval ?
+
+### Scène n°6
+
+- Mise en place d'une rivière qui sépare le monde des morts et des vivants (À la grande joie de Mme Moisan-Rochefort).
+- Le chant de Quentin se fait debout.
+
+### Scène 7
+
+Première réelle mise en scène, ajout de Iphigénie dans la scène pour de la cohérence avec la scène n°8. Présence du chœur.
+
+![[Scène 7 Choeur + Iphigénie.jpg]]
+
+### Scène n°8 **Moi et Celeste**
+
+Premièrement, la mise en scène n'est pas du tout celle que nous avions préconisée. Voici à quoi elle ressemble.
+
+![[Deplacoements scène n°8.jpg]]
+
+Pour les conseils exacts de Frédérique, je joins ci-dessous les notes dans mon livre.
+
+![[Scène n°18 livre n1.jpg | 500]]
+![[Scène n°18 livre n2.jpg | 500]]
+![[Scène n°18 livre n3.jpg | 500]]
+
+![[Scène n°18 livre n5.jpg | 500]]
+
+***
+
+## Séance N°19 Mardi 18/03/2025
+
+### 1M28 d'éloquence
+
+La minute d'éloquence s'est bien passée. Le seul point à améliorer est de prendre le temps de respirer pendant mon oral. À part cela, si je respire, je serai concentré et je n'aurai pas de moments d'hésitation.
+
+### Proposition Scène 11 (cri de Clytemnestre)
+
+![[Scène 11.jpg]]
+
+### Proposition Scène 12, Iphigénie et Clytemnestre
+
+![[Scène 12 simple.jpg]]
+
+### Proposition scène n°13 Iphigénie et Clytemnestre et Artemis
+
+==Très important de noter qu'il y a un noir avant cette scène (changement de personnage).==
+
+![[Scène n°13 avec artémis.jpg]]
+
+### Proposition et participation, Scène n°14
+
+Cette fois-ci, dans cette scène, Artémis "tient le sort d'Iphigénie entre ses mains", elle la prend autour du cou.
+
+![[Scène n°14 tu y est pour x.jpg]]
+### Costume de théâtre pour la pièce
+
+Nous avons décidé d'une base pour les costumes : 
+
+| Rôle Masculin                                                                                                                                          | Rôle Féminin       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| Pantalon large et noir                                                                                                                                 | Robe couleurs pâles |
+| Haut de corps, un t-shirt noir que nous allons découper de manière à être semi torse nu. Il s'agit d'une imitation des styles des guerriers de Sparte | x                  |
+
+Les cas spécifiques restent à déterminer.
+
+
+## Séance N°20 Mardi 25/03/2025
+
+### Point costume pour la pièce
+
+Toujours la même base, mais cette fois-ci nous avons des précisions pour distinguer les rôles.
+
+Un thème de couleur par rôle ou type de rôle, exemple une écharpe qui permet de distinguer chaque personne.
+
+- Violet => Clytemnestre et le roi Agamemnon
+- Vert => Iphigénie
+- Bleu => Electre
+- Gris => Le trembleur
+- Blanc => Choryphée
+- Chœur <=> Juste la base du costume
+
+Les dieux, en revanche, ont droit à des accessoires plus extrêmes et modernes malgré les anachronismes. Notamment le manteau à paillettes pour Chronos ou des accessoires comme les lunettes étoiles.
+
+### Scène 15 
+
+![[Scène 15 trembluer niko tah les wandoski.jpg]]
+
+#### Scène de transition (15.2)
+
+![[Transition entre les scènes 15 et 16.jpg]]
+
+### Proposition scène n°16
+
+![[Scène 16 avec le choryphée.jpg]]
+
+## Les Ailes de Prométhée
+
+### Thèmes centraux
+
+- **Crise grecque des années 2000 à 2010** : Exemple, les plans d'austérité.  
+- **Le mythe de Prométhée**.  
+- **Politique** : Exemple, les marionnettes.  
+- **Relation amicale** : Groupe d'amis.  
+- **La révolte** : Exemple, le lieu de rencontre des amis.  
+- **L'amour** : Notamment avec la révolution d'Athènes.  
+- **L’argent-dette** : Notamment le portefeuille de 50€.  
+- **Le partage** : De pouvoir, exemple Zeus avec la politique.  
+- **La confiance** : Entre Zeus et Prométhée, mais également entre les amis.  
+- **La trahison** : Notamment l'argent gardé par les amis.  
+- **Le mensonge** : Le bœuf sacré.  
+- **La nourriture** : Avec le repas et le buffet des dieux.  
+- **Les personnages et leur conflit**.  
+- **Le groupe d'amis** :  
+  - Paul, qui est allemand.  
+  - Annie, qui a perdu sa mère.  
+  - Deux Athéniens : Vaguent et Julien.  
+- **Le conflit entre le funambule et l'oiseau**.  
+- **Le musicien de scène**.  
+- **Le public** : Qui est en interaction.  
+- **Les cuisinières**.  
+- **Zeus, Prométhée et autres dieux** : Notamment Dionysos.  
+- **Le chat**.  
+- **Les politiques** : Donc Angela Merkel.  
+- **Une marionnette confiée à Annie** : Le speech enfant-mère.  
+- **Conflit entre le peuple et le gouvernement**.  
+
+---
+
+### Cadre et époque
+
+- **Athènes**.  
+- **2025, 2010, époque antique grecque**.  
+- **Lieux** :  
+  - Une place publique ?  
+  - La plage.  
+  - Lola, Olympe.  
+  - Trois raisons, trois maisons représentant trois époques différentes.  
+  - Un restaurant.  
+  - Le bureau des politiques ?  
+  - Un kiosque.  
+  - Le temple de Dionysos.  
+
+---
+
+### Les enjeux dramatiques (mise en action)
+
+- **Les retrouvailles**.  
+- **La politique** ?  
+- **Le repas contemporain et divin**.  
+- **Les conflits**.  
+- **Les révoltes**.  
+- **Le vol du feu par Prométhée**.  
+- **Le feu est éteint** : Une amitié qui s'éteint ?  
+- **La domination par la peur** : Qu'impose Zeus.  
+- **Réponse à leurs malentendus**.  
+- **La crise** : Celle qui crée l'action à l'origine.  
+- **L'assassinat d'Alexis**.  
+- **La faiblesse** : Qui amène Prométhée à voler.  
+
+---
+
+### Les symboles
+
+- **Le funambule** : Il représente l'évolution de la crise.  
+- **L'oiseau** : Un spectre qui joue le rôle de narrateur de la pièce.  
+- **Les chandeliers** : Ils symbolisent la chaleur, l'atmosphère de convivialité et de partage.  
+- **Le costume des dieux** : Plus grand que ceux des hommes, montrant leur supériorité.  
+- **Les Lumières** : Avec le sable qui monte, représentant le globe terrestre.  
+- **La nourriture qui monte** : Symbole d'opulence, mais aussi de division.  
+- **Le portrait d'Alexis** : Symbole de la résistance.  
+- **Les marionnettes** : Symboles de la tristesse et du passé.  
+- **Le bœuf sacré** : Symbole du partage des richesses entre les hommes et les dieux.  
+- **Le portefeuille** : Représente l'amitié brisée, mais aussi le partage à la fin de la pièce.  
+- **Le feu** : Marque l'indépendance et la guerre.  
+- **La table à manger** : Symbole de protection.  
+
+---
+
+### Pourquoi avoir fait jouer les marionnettes ?
+
+Parce qu'elles n'existent pas sans marionnettistes, ce qui pose une question de pouvoir et de rapport de force. Ici, l'inversion s'opère : ce sont désormais les marionnettes qui dirigent, puisqu'elles ont la parole.
+
+## Séance N°21 Mardi 1/04/2025 
+
+Important => Séance le mercredi 28 mai de 14h00 à 16h00
+
+### Échauffement
+
+Exercice de préparation pour se concentrer. L'exercice consiste à dire ses répliques en étant immobile après s'être déplacée au centre de la salle. Quand nous étions plusieurs en même temps à parler, l'importance du volume et de l'articulation était essentielle.
+
+### Révision à l'extérieur de la scène 8
+
+On a gardé la même mise en scène, mais je pense rajouter un élément de jeu au début, paraître nostalgique au début d'un temps avant guerre. Bien sûr après, je reste triste et inquiet face aux propos de ma fille.
+
+### Scène n°17 la finale
+
+![[Scène 17 La finale.jpg]]
+
+Cette scène est la finale, avec comme particularité à prendre en compte, le son du coup de pistolet, l'organisation des porteurs et le chemin exact à parcourir et enfin finaliser le chant de *No Time to Die* de Billie Eilish.
+
+### Reprise de la scène n°3
+
+On a approfondi certains points de jeu sur cette scène, notamment faire un point sur le chœur.
+
+## Séance N°22 Jeudi 03/04/2025 
+### Échauffements
+
+- Exercice de concentration (respiration).
+- Italienne en mouvement, scène 1 classique, scène 2 en statue, scène 3 en ralenti.
+
+### Scène N°1 Ajout à la scène
+
+- Artémis doit être et jouer comme une superstar.
+- Logiquement, les dieux de l'Olympe (public) eux sont tels des fans dans un concert de pop et réagissent excessivement aux propos des dieux sur la scène.
+
+Enfin, il faudra déplacer les sièges présents sur la scène et les pupitres (tables). Pour cela, 2 groupes marchent tels des robots et retirent les éléments de la scène.
+
+![[FIn de la scène n°1 .jpg]]
+## Séance N°23 Mardi 20?/04/2025 
