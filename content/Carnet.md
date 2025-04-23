@@ -1256,4 +1256,30 @@ On a approfondi certains points de jeu sur cette scène, notamment faire un poin
 Enfin, il faudra déplacer les sièges présents sur la scène et les pupitres (tables). Pour cela, 2 groupes marchent tels des robots et retirent les éléments de la scène.
 
 ![[FIn de la scène n°1 .jpg]]
-## Séance N°23 Mardi 20?/04/2025 
+## Séance N°23 Mardi 22/04/2025 
+
+### Filage des scènes
+
+#### Conseils d’ordre général :
+
+1. Le son est trop faible : il faut parler plus fort, plus lentement, tout en articulant. Attention également à ne pas adopter une tonalité décroissante.
+2. Bien apprendre son texte pour gagner en liberté de jeu.
+
+#### Scènes à surveiller (pour moi) :
+
+- **Scène 1** : Plus de puissance et d’investissement de la part du public (je n’y suis pas, mais je peux aider si besoin).  
+  À la fin, penser à passer au centre pour aller chercher les sièges.
+
+- **Scène 8** :
+
+| Moment  | Éléments à améliorer                                                                                                                         |
+|--------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Toujours | Débit trop rapide → **ralentir** (volume correct).                                                                                          |
+| Milieu   | Être **plus émotif** lors de la réplique : *« Apprends-moi à me séparer de toi »*.                                                           |
+| Fin      | Regarder ma fille quand elle part, et **même après** qu’elle ne soit plus sur scène (ex. : pendant le monologue *« Et toi, ma fille… »*).  |
+| Fin      | Monologue → **ton coupable et en colère contre moi-même**, pour ne pas avoir mieux agi.                                                    |
+
+- **Scène 14** : Nous ne sommes pas sortis avec les autres garçons du groupe sur scène (oubli).
+- **Scène 15** : Maintenant, je dois prendre la chaise de Nikola et la ramener en coulisses.
+- **Dernière scène** : Il faut que **tout le monde** monte sur scène.
+
