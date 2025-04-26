@@ -1283,3 +1283,66 @@ Enfin, il faudra déplacer les sièges présents sur la scène et les pupitres (
 - **Scène 15** : Maintenant, je dois prendre la chaise de Nikola et la ramener en coulisses.
 - **Dernière scène** : Il faut que **tout le monde** monte sur scène.
 
+## Séance n°24 Jeudi 24/04/2025
+
+### Prise de notes : **Les BOLOSS des belles lettres, Le Misanthrope**
+
+| Personnages |                                                                               |
+| ----------- | ----------------------------------------------------------------------------- |
+| Alceste     | Histoire d'amour. Jeu littéraire pour séduire. Personne très franche et directe |
+| Célimène    | Demi-mondaine / Cocotte / hypocrisie                                          |
+
+Texte en alexandrins  
+Pièce originale remodernisée  
+Misanthrope <=> Personne qui est peu sociable, qui aime la solitude.
+
+### Lecture scénarisée *Acte II scène 4*
+
+![[THeatre misant Texte.jpg]]
+
+## Notes après spectacle "Le Misanthrope"
+
+### Personnages et avis
+
+| Personnage | Description                                                                | Caractéristique principale | Mon avis                                                                                                                                                  |
+| ---------- | -------------------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alceste    | Le misanthrope lui-même, critique de la société, amoureux de Célimène.     | Franc, intransigeant       | Même en étant déconnecté de la société, je me reconnais dans ce personnage car il assume ses points de vue, ce qui est rare dans la société d'aujourd'hui. |
+| Célimène   | Jeune veuve spirituelle et coquette, Alceste => ❤️                         | Vive, moqueuse             | Déjà que la pièce dévoile bien le caractère de Célimène, la fin montre l'embrigadement de la société chez les jeunes filles (demi-mondaine).                |
+| Philinte   | Ami d'Alceste, plus modéré                                                 | Diplomate, sociable        | Son comportement, savoir s'adapter en fonction des situations, fait que c'est le personnage le plus honorable de la pièce avec Éliante.                   |
+| Éliante    | Cousine de Célimène, raisonnable et sincère, amoureuse discrète d'Alceste. | Sage, posée                | Même raisonnement, ce qui explique son amour pour Alceste.                                                                                                |
+| Oronte     | Gentilhomme vaniteux qui demande l'avis d'Alceste sur son sonnet/poème.    | Susceptible, orgueilleux   | Ce mec incarne les réseaux sociaux. Réflexion : on a la liberté d'expression mais pas sur tous les sujets.                                                 |
+| Arsinoé    | Femme jalouse de Célimène, hypocrite.                                      | Jalouse, hypocrite         | La comédienne a parfaitement réussi son jeu parce que je haïssais ce personnage.                                                                           |
+| Acaste     | Marquis prétentieux, courtise Célimène.                                    | Arrogant, superficiel      | Je confonds les deux, mais le jeu avec la perruque est très réussi.                                                                                        |
+| Clitandre  | Marquis également amoureux de Célimène.                                   | Vaniteux, prétentieux      | //                                                                                                                                                        |
+| Basque     | Valet de Célimène.                                                         | Serviteur dévoué           | x                                                                                                                                                         |
+| Du Bois    | Valet d'Alceste.                                                           | Loyal, empressé            | x                                                                                                                                                         |
+
+### Notes brutes de la pièce
+
+- Les toilettes => Ils se disent de la merde les uns sur les autres.
+- Le concert de toilettes (absurdité des standards de ce qui est beau dans leur société).
+- Le jeu des comédiens me faisait détester les personnages, notamment celui des marquis (ceux qui suivaient Célimène) ou encore les intentions vicieuses d'Arsinoé. (Quand on déteste le caractère d'un personnage, c'est qu'il est très bien joué.)
+- Je n'ai pas adoré la pièce du Misanthrope car je trouve que le style remodernisé n'apporte pas énormément de plus à la pièce, mais la fin, qui reproduit le tableau *"Le Voyageur contemplant une mer de nuages"*, était comme une conclusion incroyable dans une dissertation. Techniquement, c'était une prouesse, et symboliquement cela met extrêmement en valeur le personnage d'Alceste qui est fidèle à ses valeurs. Je préfère être dans son cas, dans la nature (à faire une balade), ce qui fait écho à Arthur Rimbaud et son côté vagabond.
+- Les chevaux => pas trop compris, peut-être pour comprendre que nous sommes chez quelqu'un de riche.
+- Le foin représente un retour aux valeurs simples, philosophie => Rousseau : l'homme est naturellement bon mais la société le corrompt (Alceste passe le balai, il est simple).
+
+### Image (en ligne) et documents
+
+![[Leaf2.jpg]]
+![[Le Misantrophe de molière Leaflet 1.jpg]]
+![[![[Le Misantrophe de molière Leaflet 2]]
+![[Le Misantrophe de molière Leaflet 2]]
+
+
+#### Décors
+
+Lien vidéo si besoin : https://vimeo.com/1029590639
+
+![[Pasted image 20250426174558.png]]  
+![[Décor silence cheveaux et toilettes.png]]
+### Musique 
+
+La musique : # Benny Benassi - *Satisfaction* (électro)  
+Elle intervenait lors de la réunion autour des toilettes : Alceste ne parlait pas avec les autres parce qu'il voulait se retenir de dire la vérité sur les marquis qu’il devait haïr. La musique représenterait sa haine intérieure.
+
+
