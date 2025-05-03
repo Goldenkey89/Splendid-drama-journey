@@ -1345,4 +1345,39 @@ Lien vidéo si besoin : https://vimeo.com/1029590639
 La musique : # Benny Benassi - *Satisfaction* (électro)  
 Elle intervenait lors de la réunion autour des toilettes : Alceste ne parlait pas avec les autres parce qu'il voulait se retenir de dire la vérité sur les marquis qu’il devait haïr. La musique représenterait sa haine intérieure.
 
+## Séance n°8 Mardi 29/04/2025
+
+### Échauffement
+
+Dire ces répliques bien haut et fort pour pouvoir rester concentré.
+
+### Scène n°6 — Proposition de mise en scène
+
+1. On empêche les deux amoureux de se rencontrer pour créer une lutte infinie.
+2. On crée un mur invisible.
+3. On réalise vraiment le rêve de Tirésias avec accompagnement.
+
+### Reprise intégrale du jeu de la scène n°8
+
+1. Je fais un faux sourire quand je la croise du regard (arrivée sur scène).
+2. Elle me prend une main avec ses deux mains.
+3. Pas de regard et je suis froid (mes répliques).
+4. « Tais-toi » (énervé), puis je me rends compte de mes actions et je la rassure (deux mains, tête à tête).
+5. « Animal » => « Tu le sauras assez tôt » (vers le vide).
+6. Réplique : « Y a-t-il un animal que tu n’aimes pas ? » → Faux sourire.
+7. (Réplique : questions, elle enlève ses mains) => Moi, je suis inquiet + regard.
+8. (Réplique : « Se séparer de moi ») <=> Iphigénie : je crois que c’est fini, je manifeste mon regret.
+9. Quand elle dit : « J’épouserai Achille » <=> Je pleure, puis elle reprend.
+10. Je la reprends : « Apprends-moi à me séparer de toi. »
+11. Je la relâche après (Oracle).
+12. Immense regret : « Que je dois donner ma… »
+13. « Très clair, ma fille. Allons. Va te préparer. » (mini adieu)
+14. « Puisse ma fille être aussi fière de son père » (introspection, vers le public).
+15. Monologue partie 1 → même ton.
+16. Monologue partie 2 (lignes 1 à 2) vers Iphigénie, qui est partie, (avec un ton joyeux.)
+17. « Où le sang […] » → retour à un état de haine.
+18. Enfin : « Ô ignoble boucherie » → je suis en colère, haineux envers les guerriers et dieux → je pars dans l’autre sens.
+
+
+
 
